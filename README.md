@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LendLens — P2P Micro-Lending Matchmaker
 
 LendLens is a local, interactive hackathon prototype. It ranks fictional open micro-loan listings using an investor's risk appetite, proposes a diversified allocation across the top five, explains the matching score, compares borrowers, and simulates a default scenario.
@@ -127,3 +128,6 @@ lendlens-starter/
 - **QA/pitch owner:** test all controls, run the production build, and prepare the judging narrative.
 
 Make one person responsible for merging changes. Avoid having multiple teammates edit `App.jsx` at the same time.
+=======
+# Tech-Tadka
+>>>>>>> 38e853ad6d2ddcdd6fabc548c0ebd13dbbc0d198
